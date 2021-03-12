@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58245427529",
+    "project_id": "codingmart-81364",
+    "storage_bucket": "codingmart-81364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58245427529:android:6bb6e5ee3e72e2d7deaa98",
+        "android_client_info": {
+          "package_name": "com.codingmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58245427529-a4jqam0pajdmjndi6v0f3s936larpkqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzksH-fh2oDdZP3nuFiCcLhka6NMbWEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58245427529-a4jqam0pajdmjndi6v0f3s936larpkqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
